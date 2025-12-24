@@ -24,3 +24,7 @@ A menu-driven calculator program written in C that performs common mathematical 
 - Handling user input safely
 - Implementing mathematical operations using math.h
 - Writing clean and reusable logic functions
+
+## About Me
+I’m a B.Tech CSE student building practical coding skills and sharing projects publicly.  
+Find more on my LinkedIn: https://www.linkedin.com/in/atharv-tambe-2b3752369/
